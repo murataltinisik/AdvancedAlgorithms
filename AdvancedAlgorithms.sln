@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedAlgorithms", "AdvancedAlgorithms\AdvancedAlgorithms.csproj", "{AEC56EFE-177A-43DA-B4A9-C682976312DE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketStockTracker", "MarketStockTracker\MarketStockTracker.csproj", "{ADA4F552-705A-48D8-A305-F7EE927F4852}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AEC56EFE-177A-43DA-B4A9-C682976312DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AEC56EFE-177A-43DA-B4A9-C682976312DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AEC56EFE-177A-43DA-B4A9-C682976312DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AEC56EFE-177A-43DA-B4A9-C682976312DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADA4F552-705A-48D8-A305-F7EE927F4852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADA4F552-705A-48D8-A305-F7EE927F4852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADA4F552-705A-48D8-A305-F7EE927F4852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADA4F552-705A-48D8-A305-F7EE927F4852}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
