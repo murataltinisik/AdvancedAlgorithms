@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketStockTracker", "MarketStockTracker\MarketStockTracker.csproj", "{ADA4F552-705A-48D8-A305-F7EE927F4852}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourierDispatcher", "CourierDispatcher\CourierDispatcher.csproj", "{04BB541D-76FB-43D9-B42D-BCF02A90BC5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{ADA4F552-705A-48D8-A305-F7EE927F4852}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADA4F552-705A-48D8-A305-F7EE927F4852}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADA4F552-705A-48D8-A305-F7EE927F4852}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04BB541D-76FB-43D9-B42D-BCF02A90BC5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04BB541D-76FB-43D9-B42D-BCF02A90BC5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04BB541D-76FB-43D9-B42D-BCF02A90BC5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04BB541D-76FB-43D9-B42D-BCF02A90BC5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
