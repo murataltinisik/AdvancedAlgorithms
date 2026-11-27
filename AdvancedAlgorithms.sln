@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketStockTracker", "Marke
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourierDispatcher", "CourierDispatcher\CourierDispatcher.csproj", "{04BB541D-76FB-43D9-B42D-BCF02A90BC5F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashRegisterChangeCalculater", "CashRegisterChangeCalculater\CashRegisterChangeCalculater.csproj", "{46D43C6A-FCA6-4525-9A3F-B129DD96D288}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{04BB541D-76FB-43D9-B42D-BCF02A90BC5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04BB541D-76FB-43D9-B42D-BCF02A90BC5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04BB541D-76FB-43D9-B42D-BCF02A90BC5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46D43C6A-FCA6-4525-9A3F-B129DD96D288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46D43C6A-FCA6-4525-9A3F-B129DD96D288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46D43C6A-FCA6-4525-9A3F-B129DD96D288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46D43C6A-FCA6-4525-9A3F-B129DD96D288}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
